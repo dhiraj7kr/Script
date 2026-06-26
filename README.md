@@ -1,7 +1,7 @@
 # Python Script
 ### Beginner Projects
 
-* Calculator
+* Scientific Calculator
 * Number guessing game
 * Rock, Paper, Scissors
 * Password generator
@@ -15,7 +15,7 @@
 ### File Automation
 
 * Rename multiple files
-* Organize downloads into folders
+* Organise downloads into folders
 * Find duplicate files
 * Merge PDF files
 * Split PDFs
@@ -56,7 +56,7 @@
 * AI chatbot
 * PDF question-answering assistant
 * Image caption generator
-* Resume analyzer
+* Resume analyser
 * Email summarizer
 * Voice assistant
 * AI code reviewer
