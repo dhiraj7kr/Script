@@ -1,7 +1,7 @@
 # Python Script
 ### Beginner Projects
 
-* Scientific Calculator
+* [Scientific Calculator.py](https://github.com/dhiraj7kr/Script/blob/main/Scientific%20Calculator.py)
 * Number guessing game
 * Rock, Paper, Scissors
 * Password generator
